@@ -22,7 +22,7 @@ oauth==1.0.1
 pandas==0.19.1
 pbr==1.10.0
 prettytable==0.7.2
-protobuf==3.0.0
+protobuf==3.18.3
 pyOpenSSL==0.13
 pycups==1.9.66
 pycurl==7.19.3
